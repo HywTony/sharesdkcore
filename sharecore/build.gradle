@@ -29,6 +29,4 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:25.3.0'
     testCompile 'junit:junit:4.12'
-    compile files('libs/MobCommons-2017.1024.1907.jar')
-    compile files('libs/MobTools-2017.1024.1907.jar')
 }
