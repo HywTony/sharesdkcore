@@ -1,0 +1,2 @@
+# sharesdkcore
+shareSdkOnekey
